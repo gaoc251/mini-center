@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">新建需求</router-link>
-      <router-link to="/about">需求管理</router-link>
+      <router-link to="/demandsManage">需求管理</router-link>
       <router-link to="/login">登录</router-link>
       <router-link to="/register">注册</router-link>
     </div>
